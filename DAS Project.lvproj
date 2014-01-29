@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="12008004">
+	<Property Name="varPersistentID:{84E4ABD3-5749-418A-AB2F-8F974EA183E4}" Type="Ref">/My Computer/Untitled Library 1.lvlib/CSHQ_1_Time</Property>
+	<Property Name="varPersistentID:{CCD52609-05BA-4F48-BDA3-29244C50BAF5}" Type="Ref">/My Computer/Untitled Library 1.lvlib/CSHQ_1_Changed</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -12,40 +14,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DAS.vi" Type="VI" URL="../DAS.vi"/>
 		<Item Name="dbquery.php" Type="Document" URL="../dbquery.php"/>
-		<Item Name="ScopeInitSubVI.vi" Type="VI" URL="../ScopeInitSubVI.vi"/>
-		<Item Name="ScopeSubVI.vi" Type="VI" URL="../ScopeSubVI.vi"/>
+		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="instr.lib" Type="Folder">
-				<Item Name="niScope Actual Num Wfms.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope Actual Num Wfms.vi"/>
-				<Item Name="niScope Actual Record Length.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Actual Record Length.vi"/>
-				<Item Name="niScope Configure Horizontal Timing.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Horizontal/niScope Configure Horizontal Timing.vi"/>
-				<Item Name="niScope Configure Trigger (poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger (poly).vi"/>
-				<Item Name="niScope Configure Trigger Digital.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Digital.vi"/>
-				<Item Name="niScope Configure Trigger Edge.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Edge.vi"/>
-				<Item Name="niScope Configure Trigger Hysteresis.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Hysteresis.vi"/>
-				<Item Name="niScope Configure Trigger Immediate.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Immediate.vi"/>
-				<Item Name="niScope Configure Trigger Software.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Software.vi"/>
-				<Item Name="niScope Configure Trigger Window.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Trigger Window.vi"/>
-				<Item Name="niScope Configure Vertical.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Vertical/niScope Configure Vertical.vi"/>
-				<Item Name="niScope Configure Video Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Configure/Trigger/niScope Configure Video Trigger.vi"/>
-				<Item Name="niScope Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/niScope Initialize.vi"/>
-				<Item Name="niScope LabVIEW Error.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope LabVIEW Error.vi"/>
-				<Item Name="niScope Multi Read Cluster.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/niScope Multi Read Cluster.vi"/>
-				<Item Name="niScope Multi Read WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/niScope Multi Read WDT.vi"/>
-				<Item Name="niScope polarity.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope polarity.ctl"/>
-				<Item Name="niScope Read (poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/niScope Read (poly).vi"/>
-				<Item Name="niScope Read Cluster.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/niScope Read Cluster.vi"/>
-				<Item Name="niScope Read WDT.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Acquire/niScope Read WDT.vi"/>
-				<Item Name="niScope signal format.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope signal format.ctl"/>
-				<Item Name="niScope timestamp type.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope timestamp type.ctl"/>
-				<Item Name="niScope trigger coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger coupling.ctl"/>
-				<Item Name="niScope trigger slope.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger slope.ctl"/>
-				<Item Name="niScope trigger source digital.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger source digital.ctl"/>
-				<Item Name="niScope trigger source.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger source.ctl"/>
-				<Item Name="niScope trigger window mode.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope trigger window mode.ctl"/>
-				<Item Name="niScope tv event.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope tv event.ctl"/>
-				<Item Name="niScope vertical coupling.ctl" Type="VI" URL="/&lt;instrlib&gt;/niScope/Controls/niScope vertical coupling.ctl"/>
-			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="CameraADCset.vi" Type="VI" URL="/&lt;userlib&gt;/SITKCamera.llb/CameraADCset.vi"/>
 				<Item Name="CameraCheckData.vi" Type="VI" URL="/&lt;userlib&gt;/SITKCamera.llb/CameraCheckData.vi"/>
@@ -250,22 +220,45 @@
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="CamHandle.vi" Type="VI" URL="../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/Open-Close/CamHandle.vi"/>
-			<Item Name="ExCloseGlobalCam.vi" Type="VI" URL="../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/Open-Close/ExCloseGlobalCam.vi"/>
-			<Item Name="ExOpenGlobalCam.vi" Type="VI" URL="../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/Open-Close/ExOpenGlobalCam.vi"/>
-			<Item Name="ExSubCloseExperimentCoolSnap.vi" Type="VI" URL="../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/CoolSnap and Evolve/ExSubCloseExperimentCoolSnap.vi"/>
+			<Item Name="AddBufferEX.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/AddBufferEX.vi"/>
+			<Item Name="AllocateBuffer.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/AllocateBuffer.vi"/>
+			<Item Name="ArmCamera.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/RecordingControl.llb/ArmCamera.vi"/>
+			<Item Name="CamHandle.vi" Type="VI" URL="../../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/Open-Close/CamHandle.vi"/>
+			<Item Name="CamLinkSetImageParameters.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/CamLinkSetImageParameters.vi"/>
+			<Item Name="CancelImages.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/CancelImages.vi"/>
+			<Item Name="Cleanup.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/Cleanup.vi"/>
+			<Item Name="CloseCamera.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/CloseCamera.vi"/>
+			<Item Name="ErrorManager.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/GeneralControlStatus.llb/ErrorManager.vi"/>
+			<Item Name="ExCloseGlobalCam.vi" Type="VI" URL="../../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/Open-Close/ExCloseGlobalCam.vi"/>
+			<Item Name="ExOpenGlobalCam.vi" Type="VI" URL="../../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/Open-Close/ExOpenGlobalCam.vi"/>
+			<Item Name="ExSubCloseExperimentCoolSnap.vi" Type="VI" URL="../../../SITK/Documents/SIToolkit/LabVIEW/Examples2012_4_1_0_4/CoolSnap and Evolve/ExSubCloseExperimentCoolSnap.vi"/>
+			<Item Name="FormatHWDESC.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/GeneralControlStatus.llb/FormatHWDESC.vi"/>
+			<Item Name="FormatSoftwareDesc.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/GeneralControlStatus.llb/FormatSoftwareDesc.vi"/>
+			<Item Name="GetCameraType.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/GeneralControlStatus.llb/GetCameraType.vi"/>
+			<Item Name="GetDescription.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/Sensor.llb/GetDescription.vi"/>
+			<Item Name="GetImageBuffer2D.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/GetImageBuffer2D.vi"/>
+			<Item Name="GetRecordingState.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/RecordingControl.llb/GetRecordingState.vi"/>
+			<Item Name="GetSizes.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/Sensor.llb/GetSizes.vi"/>
+			<Item Name="InitLibrary.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/InitLibrary.vi"/>
 			<Item Name="LabViewLayer.dll" Type="Document" URL="LabViewLayer.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="niScope_32.dll" Type="Document" URL="niScope_32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
+			<Item Name="OpenCameraEx.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/OpenCameraEx.vi"/>
+			<Item Name="pcolabview.dll" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/pcolabview.dll"/>
+			<Item Name="SC2_Cam.dll" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/SC2_Cam.dll"/>
+			<Item Name="SetDelayExposureTime.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/TimingControl.llb/SetDelayExposureTime.vi"/>
+			<Item Name="SetPixelRate.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/Sensor.llb/SetPixelRate.vi"/>
+			<Item Name="SetRecordingState.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/RecordingControl.llb/SetRecordingState.vi"/>
+			<Item Name="SetROI.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/Sensor.llb/SetROI.vi"/>
+			<Item Name="SetStorageMode.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/RecordingControl.llb/SetStorageMode.vi"/>
+			<Item Name="SetTrigger.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/TimingControl.llb/SetTrigger.vi"/>
+			<Item Name="StripCamType.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/GeneralControlStatus.llb/StripCamType.vi"/>
+			<Item Name="WaitForBuffer.vi" Type="VI" URL="../../../../../../Program Files/National Instruments/LabVIEW 2012/PCO/32bit_runtime/APIManagement.llb/WaitForBuffer.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
