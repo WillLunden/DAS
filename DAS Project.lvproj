@@ -5,11 +5,13 @@
 	<Property Name="varPersistentID:{295447C7-0986-4EA5-8821-24DEC35D49C2}" Type="Ref">/My Computer/DASLib.lvlib/QuadMeanR</Property>
 	<Property Name="varPersistentID:{2999B8E4-5E01-49BE-B602-17ADAB06A14B}" Type="Ref">/My Computer/DASLib.lvlib/HeartBeats/PROEMHeartBeat</Property>
 	<Property Name="varPersistentID:{308D98D4-62C4-4440-A8AA-62D1C0F3A281}" Type="Ref">/My Computer/DASLib.lvlib/QuadMax</Property>
+	<Property Name="varPersistentID:{32C41C2D-CD3E-48FC-A7C0-EAA706BFE50E}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/lattice1</Property>
 	<Property Name="varPersistentID:{3865E745-FBE0-4019-B728-B8DA88F2EF5C}" Type="Ref">/My Computer/DASLib.lvlib/SlaveUpdate</Property>
 	<Property Name="varPersistentID:{459CCD2D-6152-4077-ACD0-E24AD4F15BE6}" Type="Ref">/My Computer/DASLib.lvlib/DIE_Gated_Signal</Property>
 	<Property Name="varPersistentID:{4D2C3847-87BA-45BF-A889-BEA3CBBDE379}" Type="Ref">/My Computer/DASLib.lvlib/HeartBeats/PFHeartBeat</Property>
 	<Property Name="varPersistentID:{586373E0-4A95-43CE-AA3E-1A3AAF78D18B}" Type="Ref">/My Computer/DASLib.lvlib/Slave_Columns</Property>
 	<Property Name="varPersistentID:{77E8DCD9-9575-4A00-975B-9FC084BB6F0D}" Type="Ref">/My Computer/DASLib.lvlib/Slave_Dark</Property>
+	<Property Name="varPersistentID:{79ADFAF3-A151-4136-BC4C-A6043E1685FB}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/lattice2</Property>
 	<Property Name="varPersistentID:{7C686151-640F-4FA6-9355-DF641C29507E}" Type="Ref">/My Computer/DASLib.lvlib/Slave_NoAtoms</Property>
 	<Property Name="varPersistentID:{7F2BEF02-B95F-4EF4-A2CA-894DFB3BCF4E}" Type="Ref">/My Computer/DASLib.lvlib/TimeBetweenShots</Property>
 	<Property Name="varPersistentID:{8194FB2E-5655-45CA-8FC6-5EA5C6A6FDA8}" Type="Ref">/My Computer/DASLib.lvlib/ImagingRatio</Property>
@@ -17,14 +19,21 @@
 	<Property Name="varPersistentID:{8A56F193-E2B3-4E6C-80C0-38CDD55B63B5}" Type="Ref">/My Computer/DASLib.lvlib/Slave_Atoms</Property>
 	<Property Name="varPersistentID:{8C8AFBB3-896B-43FB-B22B-E1DADA8FD0CD}" Type="Ref">/My Computer/DASLib.lvlib/firstRun</Property>
 	<Property Name="varPersistentID:{8E710FE7-44E9-4188-8428-967EACA31F08}" Type="Ref">/My Computer/DASLib.lvlib/CSHQ_Bright</Property>
+	<Property Name="varPersistentID:{96FC03BB-7685-4C12-B62B-F99B88C2E93C}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/odt2</Property>
+	<Property Name="varPersistentID:{983D7D3C-F396-4FAD-901B-405C9D5BC6F8}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/odt1</Property>
+	<Property Name="varPersistentID:{9F3CA7C1-1E8A-4246-BD72-BFE53855C683}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/lattice3</Property>
 	<Property Name="varPersistentID:{A48E7EB5-546C-456B-BFB9-83B394A82A8E}" Type="Ref">/My Computer/DASLib.lvlib/CiceroVariableValues</Property>
+	<Property Name="varPersistentID:{A5BACB21-6DF4-4D17-8A02-0684D95134B8}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/xincrement</Property>
 	<Property Name="varPersistentID:{B1064A66-F251-4092-808F-CE2E297F8E38}" Type="Ref">/My Computer/DASLib.lvlib/QuadVariance</Property>
 	<Property Name="varPersistentID:{C538082A-1DBD-4A4F-B501-A2E9F90FD7E0}" Type="Ref">/My Computer/DASLib.lvlib/plotsCleared</Property>
 	<Property Name="varPersistentID:{CA7C93B7-B07F-4589-A560-16C472CBF8DA}" Type="Ref">/My Computer/DASLib.lvlib/CSHQ_Dark</Property>
 	<Property Name="varPersistentID:{CCD52609-05BA-4F48-BDA3-29244C50BAF5}" Type="Ref">/My Computer/DASLib.lvlib/CSHQ_1_Changed</Property>
 	<Property Name="varPersistentID:{E0589545-FBF2-4E07-A12C-8821608536E8}" Type="Ref">/My Computer/DASLib.lvlib/UpdateFlag</Property>
 	<Property Name="varPersistentID:{E23C5F78-56E3-464B-AEE7-7B192C8481FA}" Type="Ref">/My Computer/DASLib.lvlib/CSHQ_Atoms</Property>
+	<Property Name="varPersistentID:{E47D17BC-F183-4DD4-93E2-18DF83E82583}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/Feshbach</Property>
+	<Property Name="varPersistentID:{F2E3A6A7-99D0-439F-B604-FD950A0CA82E}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/Gradient</Property>
 	<Property Name="varPersistentID:{FAAC2BDE-B840-402D-9FE0-299C0FD8DF9A}" Type="Ref">/My Computer/DASLib.lvlib/Slave_Rows</Property>
+	<Property Name="varPersistentID:{FC96C407-D650-4510-8D96-F8E63E022CD8}" Type="Ref">/My Computer/DASLib.lvlib/NikiScope/initialx</Property>
 	<Property Name="varPersistentID:{FDD4C570-7CBA-4873-8CFD-C1BEDA487CC5}" Type="Ref">/My Computer/DASLib.lvlib/HeartBeats/CSHeartBeat</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -46,14 +55,18 @@
 			<Item Name="DAS_DEVEL.vi" Type="VI" URL="../DAS_DEVEL.vi"/>
 		</Item>
 		<Item Name="DAS Accessories" Type="Folder">
-			<Item Name="DIE.vi" Type="VI" URL="../DIE.vi"/>
 			<Item Name="ImagingAnalyzer.vi" Type="VI" URL="../ImagingAnalyzer.vi"/>
 			<Item Name="DBStringToAssociativeArray.vi" Type="VI" URL="../DBStringToAssociativeArray.vi"/>
 			<Item Name="QuadAnalyzer.vi" Type="VI" URL="../QuadAnalyzer.vi"/>
+			<Item Name="DIE.vi" Type="VI" URL="../DIE.vi"/>
 			<Item Name="dbquery.php" Type="Document" URL="../dbquery.php"/>
+		</Item>
+		<Item Name="Niki Scope" Type="Folder">
+			<Item Name="ScopePitcher.vi" Type="VI" URL="../ScopePitcher.vi"/>
 		</Item>
 		<Item Name="DASLib.lvlib" Type="Library" URL="../DASLib.lvlib"/>
 		<Item Name="saveAIA.vi" Type="VI" URL="../saveAIA.vi"/>
+		<Item Name="PixelFlyDEVEL.vi" Type="VI" URL="../Slave VIs/PixelFlyDEVEL.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="CameraADCset.vi" Type="VI" URL="/&lt;userlib&gt;/SITKCamera.llb/CameraADCset.vi"/>
@@ -237,32 +250,6 @@
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
-				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
-				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
-				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
-				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
-				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
-				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
-				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
-				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
-				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
-				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
-				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
-				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
-				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
-				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
-				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
-				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
-				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
-				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
-				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
-				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
-				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
-				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niScope LabVIEW Error.vi" Type="VI" URL="/&lt;instrlib&gt;/niScope/Utility/niScope LabVIEW Error.vi"/>
@@ -356,7 +343,6 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

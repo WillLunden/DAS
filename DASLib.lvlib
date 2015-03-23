@@ -31,6 +31,82 @@
 			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!")!A!1!!!!"!!N!!A!&amp;37ZU-49!!1!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
+	<Item Name="NikiScope" Type="Folder">
+		<Item Name="initialx" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!")!A!1!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="xincrement" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!")!A!1!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="odt1" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="odt2" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="lattice1" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="lattice2" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="Path" Type="Str">/DAS Project.lvproj/My Computer/DASLib.lvlib/NikiScope/</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="lattice3" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Feshbach" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Gradient" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"D8Q!!!")!A!1!!!!"!":!6!!$$U2P&gt;7*M:3"898:F:G^S&lt;1!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%A#!"!!!!!%!"!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+	</Item>
 	<Item Name="CiceroVariableNames" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
